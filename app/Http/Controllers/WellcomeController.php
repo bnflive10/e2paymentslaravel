@@ -31,6 +31,12 @@ class WellcomeController extends Controller
 //This creates transaction between an M-Pesa short code to a phone number registered on M-Pesa.
 
         $result = $mpesa->c2b($phone_number, $amount, $reference);
-        echo var_dump($result);
+
+        if(isset($result->response->success) ){
+
+            echo 'pagamento efectuado com sucesso';
+        }else{
+            echo 'erro de tranzacao';
+        }
     }
 }
