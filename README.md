@@ -1,5 +1,7 @@
 # Example of mpesa API integration throught e2payments sdk
 
+A basic structure to show how to implement e2peyments sdk on a [laravel](https://laravel.com/docs/9.x/authentication) project.
+
 [e2payments](https://e2payments.explicador.co.mz)<br>
 [e2payments sdk](https://github.com/Explicador/e2Payments-php-sdk)
 
