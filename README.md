@@ -10,12 +10,14 @@
 
 ## Installation
 
-Clone repository
+#### 01. Clone repository
+
 ```
-git clone https://github.com/bnflive10/e2paymentslaravel.git
+$ git clone https://github.com/bnflive10/e2paymentslaravel.git
 ```
 
-Install dependencies
+#### 02. Install dependencies
+
 ```
-composer install
+$ composer install
 ```
