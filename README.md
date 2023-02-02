@@ -9,6 +9,7 @@ A basic structure to show how to implement e2peyments sdk on a [laravel](https:/
 
 > - git [install now](https://git-scm.com/downloads)
 > - composer [install now](https://getcomposer.org/download/)
+> - Code editor and terminal(CMD)
 
 ## Installation
 
@@ -22,4 +23,10 @@ $ git clone https://github.com/bnflive10/e2paymentslaravel.git
 
 ```
 $ composer install
+```
+
+#### 03. Initialization
+
+```
+$ php artisan serve
 ```
