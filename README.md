@@ -1,14 +1,16 @@
 # Exemplo de integraçÃo de API mpesa via e2payments sdk
 
 [e2payments](https://e2payments.explicador.co.mz)
+[e2payments sdk](https://github.com/Explicador/e2Payments-php-sdk)
 
 ## Installation
 
-##### clonar repositorio
+Clonar repositorio
 ```
 git clone https://github.com/bnflive10/e2paymentslaravel.git
 ```
-##### instalar dependências
+
+Install dependencies
 ```
 composer install
 ```
