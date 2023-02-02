@@ -6,7 +6,7 @@
 ## Requirements
 
 > - git [install now](https://git-scm.com/downloads)
-> - composer [composer](https://getcomposer.org/download/)
+> - composer [install now](https://getcomposer.org/download/)
 
 ## Installation
 
